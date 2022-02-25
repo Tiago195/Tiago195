@@ -3,7 +3,7 @@
 <div>
 <img width = "40%" align="right" alt="PIC" src="https://www.publicitarioscriativos.com/wp-content/uploads/2019/03/deekay-vie-agence-designer-1.gif" />
 <div align="left">
-  <h2> 🦆 Sobre mim </h2>
+  <h2> 🤯 Sobre mim </h2>
 
   - 🎓 &nbsp; Estudante de desenvolvimento web.
   - 💼 &nbsp; Atualmente estou pesquisando vagas de emprego.
