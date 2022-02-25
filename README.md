@@ -1,12 +1,15 @@
+<h1 align="center">Ola, Eu sou Tiago Meireles <img width="30px" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" /></h1>
+<h3 align="center">Desenvolvedor front-end 💻 | Gosto de jogos 🎮</h3>
 <div>
-  <header>
-    <h1>Ola, Eu sou Tiago Meireles 
-  </header>
-  <section>
-    <section>
-      <h3>Sobre mim</h3>
-    </section>
-  </section>
+<img width = "45%" align="right" alt="PIC" src="https://www.publicitarioscriativos.com/wp-content/uploads/2019/03/deekay-vie-agence-designer-1.gif" />
+<div align="left">
+  <h2> 🦆 Sobre mim </h2>
+
+  - 🎓 &nbsp; Estudante de desenvolvimento web.
+  - 💼 &nbsp; Atualmente estou pesquisando vagas de emprego.
+  - 🌱 &nbsp; Ansioso para começar a aprender back-end.
+</div>
+</div>
 <div>
   <a href="https://github.com/Tiago195">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago195&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
