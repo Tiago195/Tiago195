@@ -11,6 +11,12 @@
 </div>
 </div>
 <div>
+  <h3> 💻 Linguagens e Ferramentas </h3>
+  <p>
+   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="50"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="50"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png"   width="50"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" width="50"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="50"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" width="50"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" width="50"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/slack_logo_icon_170727.png" width="50"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="50">
+  <p>
+</div> 
+<div>
   <a href="https://github.com/Tiago195">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago195&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
