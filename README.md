@@ -19,7 +19,7 @@
 </div> 
 <br/>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago195&theme=dark&hide_langs_below=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago195&theme=dracula&hide_langs_below=1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago195&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
