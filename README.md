@@ -17,9 +17,10 @@
    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="50"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_plain_wordmark_logo_icon_146476.png"   width="50"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_wordmark_logo_icon_146574.png" width="50"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="50"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" width="50"><img src="https://cdn.discordapp.com/attachments/945852041631240222/946848235849408582/download.png" width="45"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" width="50"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="50"><img src="https://testing-library.com/img/octopus-128x128.png" width="50">
   <p>
 </div> 
+<br/>
 <div>
-  <a href="https://github.com/Tiago195">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago195&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago195&theme=dark&hide_langs_below=1"/>
+  <img  align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago195&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/Tiago195/Tiago195/blob/output/github-contribution-grid-snake.svg)
