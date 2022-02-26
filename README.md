@@ -18,8 +18,9 @@
   <p>
 </div> 
 <br/>
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago195&theme=dracula&hide_langs_below=1"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago195&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
