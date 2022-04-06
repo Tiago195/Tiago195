@@ -9,6 +9,12 @@
   - 💼 &nbsp; Atualmente estou pesquisando vagas de emprego.
   - 🌱 &nbsp; Ansioso para começar a aprender back-end.
   - 🎮 &nbsp; Apaixonado por jogos.
+  <a href="https://www.linkedin.com/in/tiago-meireles-tsm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 </div>
 <div>
