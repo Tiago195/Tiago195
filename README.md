@@ -1,5 +1,5 @@
 <h1 align="center">Ola, Eu sou Tiago Meireles <img width="30px" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" /></h1>
-<h3 align="center">Desenvolvedor front-end 💻</h3>
+<h3 align="center">Desenvolvedor Full-stack 💻</h3>
 <div>
 <img width = "40%" align="right" alt="PIC" src="https://www.publicitarioscriativos.com/wp-content/uploads/2019/03/deekay-vie-agence-designer-1.gif" />
 <div align="left">
