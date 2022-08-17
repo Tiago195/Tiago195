@@ -5,7 +5,7 @@
 <div align="left">
   <h2> 🤯 Sobre mim </h2>
 
-  - 🎓 &nbsp; Summer de Instrução na Trybe - A escola que te ensina a programar, a aprender e a trabalhar.
+  - 🎓 &nbsp; Summer de Instrução na Trybe - A escola que te ensina a programar, aprender e a trabalhar.
   - 💼 &nbsp; Atualmente estou pesquisando por vagas de emprego.
   - 🎮 &nbsp; Apaixonado por jogos.
   <a href="https://www.linkedin.com/in/tiago-meireles-tsm/">
