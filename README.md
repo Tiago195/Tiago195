@@ -5,9 +5,8 @@
 <div align="left">
   <h2> 🤯 Sobre mim </h2>
 
-  - 🎓 &nbsp; Estudante de desenvolvimento web.
-  - 💼 &nbsp; Atualmente estou pesquisando vagas de emprego.
-  - 🌱 &nbsp; Ansioso para começar a aprender back-end.
+  - 🎓 &nbsp; Summer de Instrução na Trybe - A escola que te ensina a programar, a aprender e a trabalhar.
+  - 💼 &nbsp; Atualmente estou pesquisando por vagas de emprego.
   - 🎮 &nbsp; Apaixonado por jogos.
   <a href="https://www.linkedin.com/in/tiago-meireles-tsm/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
