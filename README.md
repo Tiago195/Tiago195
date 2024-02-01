@@ -5,8 +5,8 @@
 <div align="left">
   <h2> 🤯 Sobre mim </h2>
 
-  - 🎓 &nbsp; Summer de Instrução na Trybe - A escola que te ensina a programar, aprender e a trabalhar.
-  - 💼 &nbsp; Atualmente estou pesquisando por vagas de emprego.
+  - 💼 &nbsp; Atualmente estou trabalhando como dev Full stack no UOL.
+  - ✍️ &nbsp; Tetando aprender um pouco mais sobre devOps.
   - 🎮 &nbsp; Apaixonado por jogos.
   <a href="https://www.linkedin.com/in/tiago-meireles-tsm/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
